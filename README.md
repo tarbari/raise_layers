@@ -36,7 +36,7 @@ Importing layers.json to your keyboard might require some tweaking, but it shoul
 - Symbols layer with F-keys
   - Contains all symbols available in the finnish keymap
     - The point is to never have to use top row numbers for symbols
-  - Lock 1 on both sides for convenience
+  - Lock 1 on both sides serve no actual purpose
 - Left side
   - Tab replaced with Alt+F4
   - Capslock is there if it is ever needed
