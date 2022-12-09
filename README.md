@@ -17,7 +17,7 @@ Importing layers.json to your keyboard might require some tweaking, but it shoul
     - For more information on home row mods refer to [this page](https://precondition.github.io/home-row-mods)
 - Left side
   - Capslock is replaced with escape for easier access
-  - Regular modifiers (shift, ctrl, gui, alt) are replaced with enter, backspace, and no key
+  - Regular modifiers (shift, ctrl, gui, alt) are replaced with enter, backspace, delete and no key
     - These are purely for easier one handed use when right hand is on mouse
     - Left alt is still available for easy alt+tab use, but it is moved one step to the right
   - Lock 3 changes layer to the movement layer
