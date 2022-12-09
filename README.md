@@ -1,7 +1,7 @@
 # My Dygma Raise layers
 
 This repo explains my approach to using layers in my Dygma Raise keyboard.  
-Importing layers.json to your keyboard might require some tweaking, but it should work on Bazecor version 1.0.0 Beta 14 and firmware version 1.0.0beta13.
+Importing layers.json to your keyboard might require some tweaking, but it should work on Bazecor version 1.0.0 and firmware version 1.0.9beta
 
 ---
 
@@ -40,16 +40,16 @@ Importing layers.json to your keyboard might require some tweaking, but it shoul
 - Left side
   - Tab replaced with Alt+F4
   - Capslock is there if it is ever needed
-  - Ctrl, gui, alt, and shift are not typically used here but they are available for mod+F-key combos
 - Right side
   - Lock 4 changes layer to the gaming layer
   - Backspace and delete have ctrl added as a modifier for easier whole word deletion
+  - Macro CodeB for quick markdown code blocks.
   - Some symbols are not shown correctly in the image
     | Shown | Actual symbol |
     |---------|---------------|
-    | AGr + < | \| |
-    | \ | ` |
-    | AGr + + | \ |
+    | < ag (above backspace) | \| |
+    | \ (above DEL)| ` |
+    | + ag (next to ?) | \ |
 
 ---
 
@@ -81,3 +81,15 @@ Importing layers.json to your keyboard might require some tweaking, but it shoul
 - WIP and not in regular use
 
 ---
+
+### Layer 6
+![layer_6](./img/layer_6.png)
+
+- JetBrains IDE shortcuts
+
+---
+
+### Layer 7
+![layer_7](./img/layer_7.png)
+
+- For mod + F-key kombos
